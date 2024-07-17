@@ -1,0 +1,40 @@
+package oops;
+
+class Calc
+{
+	public void msg()
+	{
+		System.out.println("displaying message....");
+	}
+	
+	public int square(int a)
+	{
+		int sq = a*a;
+		return sq;
+	}
+	
+	public void add(int a, int b)
+	{
+		int r = a+b;
+		System.out.println(r);
+	}
+	
+	
+	
+}
+
+public class O003_MethodManipulation
+{
+	public static void main(String[] args)
+	{
+		
+		Calc c = new Calc();
+//		c.msg();
+//		c.square(10);
+//		c.square(5);
+//		c.add(10, 20);
+		
+		c.square(60);
+		
+	}
+}
