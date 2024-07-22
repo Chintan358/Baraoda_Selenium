@@ -1,0 +1,75 @@
+OOPs : 
+
+
+Class : 
+logical entity
+
+Object : 
+Realtime entity
+
+State : variables/ data memeber
+Behaviour : methods / function memebr
+
+memeber can be of two types : 
+static
+non-static
+
+
+*****************************
+Polymorphism
+
+compiletime : methodoverloading
+Runtime : method overriding
+
+***************************
+Abstraction : 
+
+Hiding implimantation and showing functionality to the user
+
+abstract class  :partial abstraction
+-contains bot abstract and instanc emethod
+
+interface : fully abstraction
+-contains only abstract method
+************************
+
+abstract : method without body
+ex : public void display();
+
+instance method : method with body
+ex :public void display()
+	{
+		//logic
+	}
+
+
+banking...
+account
+{	
+	-deposite - abstract
+    - witdrow - abstract
+   - balance ----instance
+}
+
+saving
+5000
+ - deposite
+ - witdrow
+ - balance
+ 
+loan
+5000
+ - deposite
+ - witdrow
+ - balance
+
+
+
+
+
+
+
+
+
+
+

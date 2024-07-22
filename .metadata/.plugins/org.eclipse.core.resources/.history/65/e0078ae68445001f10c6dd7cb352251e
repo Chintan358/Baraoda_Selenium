@@ -1,0 +1,23 @@
+OOPs : 
+
+
+Class : 
+logical entity
+
+Object : 
+Realtime entity
+
+State : variables/ data memeber
+Behaviour : methods / function memebr
+
+memeber can be of two types : 
+static
+non-static
+
+
+*****************************
+Polymorphism
+
+compiletime : methodoverloading
+Runtime : method overriding
+
