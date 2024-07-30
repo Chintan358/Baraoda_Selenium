@@ -87,6 +87,46 @@ Date
 Random
 Math
 
+*******************************
+Exception handling
+
+fileio : 
+
+stream - flow of data
+
+byte : 
+fileinputstream
+fileoutputstream
+
+char
+filewriter
+filereader
+
+File
+
+
+*************************
+Multithreading.
+
+
+Thread class
+Runnable interface
+
+
+**********************
+collection
+
+*********
+list
+-arraylist
+
+ set
+-hashset
+-linkedhashset
+-treeset
+
+-map
+
 
 
 
